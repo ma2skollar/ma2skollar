@@ -3,6 +3,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matus-kollar/)
+
 [![](https://visitcount.itsvg.in/api?id=ma2skollar&icon=2&color=12)](https://visitcount.itsvg.in)
 
 # 💻 Tech Stack:
