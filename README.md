@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 @ma2skollar or Matúš<br><br>⌨️ Fullstack Web Developer<br><br>🔭 Blackwater Holdings Limited s. r. o. - Web Solutions<br><br>🌱 React, React Native, TypeScript<br><br>🎓 Java, JS, C#, Figma
 
+[![](https://visitcount.itsvg.in/api?id=ma2skollar&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matus-kollar/) 
@@ -11,8 +12,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ma2skollar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ma2skollar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ma2skollar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=ma2skollar&icon=2&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
